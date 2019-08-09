@@ -33,6 +33,7 @@ class PartyTests(unittest.TestCase):
 
 
         self.assertIn(b"Yay!", result.data)
+        
        
 
 
